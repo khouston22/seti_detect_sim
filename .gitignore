@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+__pycache__
+*~
+*.so
+*.o
+*.out
+*.txt
+noncoh_plots*
+sg_norm_plots*
+temp*
