@@ -7,4 +7,5 @@ __pycache__
 *.txt
 noncoh_plots*
 sg_norm_plots*
+poc_norm_plots*
 temp*
